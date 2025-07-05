@@ -23,6 +23,11 @@ const questions = [
       question: "O que o ciclope era?",
       answers: ["Pai de Poseidon", "Neto de Poseidon", "Filho de Poseidon", "Irmão de Poseidon"],
       correct: "Filho de Poseidon"
+    },
+    {
+      question: "Qual dessas sagas não existe?",
+      answers: ["Thunder Saga", "Vengeance Saga", "Troy Saga", "Calypso Saga"],
+      correct: "Calypso Saga"
     }
   ];
   
