@@ -18,6 +18,11 @@ const questions = [
       question: "Quem era o mentor/mentora de Odysseu?",
       answers: ["Athena", "Zeus", "Poseidon", "Circe"],
       correct: "Athena"
+    },
+    {
+      question: "O que o ciclope era?",
+      answers: ["Pai de Poseidon", "Neto de Poseidon", "Filho de Poseidon", "Irmão de Poseidon"],
+      correct: "Filho de Poseidon"
     }
   ];
   
